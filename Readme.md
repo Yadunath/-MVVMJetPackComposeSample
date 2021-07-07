@@ -14,6 +14,6 @@ Coil https://google.github.io/accompanist/coil/
 Navigation https://developer.android.com/jetpack/compose/navigation
 
 # ScreenShots
-![](https://github.com/Yadunath/-MVVMJetPackComposeSample/blob/master/screenshot_one.png | width=100)
+<img src="screenshot_one.png" alt="drawing" width="200"/>
 
 ![Alt text](/screenshot_two.png?raw=true "")  
