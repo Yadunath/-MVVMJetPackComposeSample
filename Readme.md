@@ -1,4 +1,4 @@
-# ** A Sample app to showcase using MVVM with JetPack Compose **
+#  A Sample app to showcase using MVVM with JetPack Compose 
 
 ![Alt text](/moviedb.jpeg?raw=true "")
 
