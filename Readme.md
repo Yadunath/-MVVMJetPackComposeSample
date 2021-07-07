@@ -13,7 +13,10 @@ Retrofit2 https://square.github.io/retrofit/
 Coil https://google.github.io/accompanist/coil/
 Navigation https://developer.android.com/jetpack/compose/navigation
 
-# ScreenShots
+# ScreenShots One
 <img src="screenshot_one.png" alt="drawing" width="400"/>
+
+# ScreenShots two
+
 <img src="screenshot_two.png" alt="drawing" width="400"/>
 
